@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://dream-services.netlify.app/index.html</loc>
+    <lastmod>2025-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://dream-services.netlify.app/service-details.html</loc>
+    <lastmod>2025-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <!-- Add separate <url> entries for each specific service page if they have unique URLs -->
+    <!-- Example: <loc>https://dream-services.netlify.app/web-design.html</loc> -->
+  </url>
+  <url>
+    <loc>https://dream-services.netlify.app/portfolio-details.html</loc>
+    <lastmod>2025-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <!-- Add separate <url> entries for each specific portfolio item page if they have unique URLs -->
+    <!-- Example: <loc>https://dream-services.netlify.app/portfolio/project-name.html</loc> -->
+  </url>
+  <url>
+    <loc>https://dream-services.netlify.app/privacy-policy.html</loc> <!-- Assuming this is the URL for your privacy policy -->
+    <lastmod>2025-04-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://dream-services.netlify.app/contact.html</loc> <!-- Assuming you have a contact page -->
+    <lastmod>2025-04-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <!-- Add more <url> entries for other pages like about.html, blog posts, etc. -->
+
+</urlset>
